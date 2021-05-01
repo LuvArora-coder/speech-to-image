@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "893593655825",
+    "project_id": "hluchy-a4293",
+    "storage_bucket": "hluchy-a4293.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893593655825:android:1203b36c6e2e39bdba2fb0",
+        "android_client_info": {
+          "package_name": "com.urjalusa.hluchy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893593655825-ser12nhk4q6bql2v8kgefs2fb7g72ldv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvp0JRZLERjtBRDINvX0Zzf8WFItvalzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893593655825-ser12nhk4q6bql2v8kgefs2fb7g72ldv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

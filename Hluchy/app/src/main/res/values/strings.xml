@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Hluchy</string>
+    <string name="button_to_take_audio_input">Button to take audio input</string>
+    <string name="image_display_for_text">Image display for text</string>
+    <string name="TutorialOption">Tutorial Value</string>
+    <string name="Exit">Exit</string>
+    <string name="go">GO</string>
+    <string name="enter_text_here">Enter text here</string>
+    <string name="or">OR</string>
+    <string name="image_tutorial">TutorialImage</string>
+</resources>
